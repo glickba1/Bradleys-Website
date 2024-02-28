@@ -1,0 +1,205 @@
+/* hero section settings */
+#hero-section{
+	background-image: url(img/hero/hero-background.jpg);
+	height: 100vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: rgba(149, 29, 66, .6);
+}
+#hero-section img{
+	height: 32vh;
+	width: 32vh;	
+	border-radius: 50%;
+	margin-top: 34vh;
+}
+#hero-section h1{
+	color: #FF0000;
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#hero-section h5{
+	color: #950101;
+	font-family: 'Merriweather'; 
+	font-weight: 700;
+}
+
+
+#mission-section{
+	background-color: #950101;
+}
+#mission-section h1{
+	color: #FF0000;
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#mission-section p{
+	color: #3D0000;
+	font-family: 'Merriweather'; 
+	font-weight: 400;
+}
+
+
+
+/* skills section settings */
+#skills-section{
+	background-color: #000000;
+	}
+#skills-section i{
+	font-size: 200px;
+}
+#skills-section h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#skills-section h5{
+	color: #950101;
+	font-family: 'Rock Salt', cursive;
+}
+
+#certifications-section{
+	background-color: #950101;
+}
+#certifications-section h1{
+	color: #3D0000;
+	font-family: 'Permanent Marker', cursive;
+}
+
+
+/* inspirational section settings */
+#inspiration-section{
+	background-color: #000000;
+	}
+#inspiration-section h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#inspiration-section h5{
+	color: #ff0000;
+	font-family: 'Rock Salt', cursive;
+}
+.carousel-dark .carousel-control-next-icon, .carousel-dark .carousel-control-prev-icon {
+    filter: none;
+}
+.carousel-control-prev-icon{
+	background-image: url("img/inspirational/prev-icon.png");
+}
+.carousel-control-next-icon {
+  background-image: url("img/inspirational/next-icon.png");
+}
+
+
+/* contact section settings */
+#contact-section{
+	background-color: #000000;
+	}
+#contact-section i{
+	font-size: 75px;
+}
+#contact-section .bi-linkedin:hover{
+	color: #0e76a8;
+}
+#contact-section .bi-envelope-fill:hover{
+	color: #ff0000;
+}
+#contact-section .bi-github:hover{
+	color: #4183C4;
+}
+
+/* footer section settings */
+#footer-section{
+	background-color: #950101;
+}
+#footer-section p{
+	color: #ff0000;
+	margin:0;
+	padding:0;
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 300;
+}
+
+/* top of the blog setup */
+#blog-section{
+	background-image: url(img/hero/hero-background.jpg);
+	height: 30vh;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: rgba(149, 29, 66, .6);
+}
+#blog-section h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#blog-section h5{
+	color: #950101;
+	font-family: 'Rock Salt', cursive;
+}
+
+ /*Explantion of blog setup*/
+#whyIhaveThis h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#whyIhaveThis h2{
+	color: #950101;
+	font-family: 'Rock Salt', cursive;
+}
+#whyIhaveThis h3{
+	color: #FF0000;
+	font-family: 'Rock Salt', cursive;
+}
+#whyIhaveThis p{
+	color: #950101;
+}
+#whyIhaveThis{
+	background-color: #000000;
+}
+
+/*my explanation for why I haven't done anything*/
+#goneSoLong h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#goneSoLong h2{
+	color: #950101;
+	font-family: 'Rock Salt', cursive;
+}
+#goneSoLong h3{
+	color: #FF0000;
+	font-family: 'Rock Salt', cursive;
+}
+#goneSoLong p{
+	color: #950101;
+}
+#goneSoLong{
+	background-color: #000000;
+}
+
+/* Match game blog setup */
+#matchGameSection h1{
+	font-family: 'Open Sans'; 
+	font-style: italic;
+	font-weight: 900;
+}
+#matchGameSection h2{
+	color: #950101;
+	font-family: 'Rock Salt', cursive;
+}
+#matchGameSection h3{
+	color: #FF0000;
+	font-family: 'Rock Salt', cursive;
+}
+#matchGameSection p{
+	color: #950101;
+}
+#matchGameSection{
+	background-color: #000000;
+}
+
